@@ -1,4 +1,4 @@
-![auc](https://github.com/AUC-IO/AUC--DAPP/blob/main/auc.png)
+![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/osasion.png)
 
 ## 1.简介
 
