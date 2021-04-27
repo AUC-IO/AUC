@@ -1,7 +1,5 @@
 # ******Osasion欧赛公链的销毁机制打造AUC价值的强势助推器******
 
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg)
-
 Osasion欧赛公链自诞生起就伴随着不少的吹捧和争议，但鲜有人去仔细揣摩Osasion欧赛整个体系内的各个机制的设计，如果你既了解行业通行规则，又学懂Osasion欧赛的基本逻辑，那么辩证看待Osasion、看待AUC，得出的结果才会不失偏颇。
 
 今天要解密的，就是Osasion公链中一个非常硬核的设计，这是区别于其他任何项目的设计，它的亮点你无从反驳，那就是Osasion欧赛公链的AUC销毁机制。
