@@ -17,8 +17,6 @@
 
 (3)1000UORA分布：1）共识推荐60%激励；2）共识激励池20%沉淀；3）AUC矿池20%锚定。
 
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/%E6%96%87%E7%AB%A0%E6%8F%92%E5%9B%BE/0227-01.png)
-
 **3.销毁机制：主动销毁和被动销毁加剧AUC流通量通缩推高市值**
 
 (1) AUC的发行机制确定为发行硬顶，总量恒定，长期来看就是通缩；
@@ -80,8 +78,6 @@ UORA（奥拉）：初始流通量10亿；AUC（欧赛）矿池总量：13743618
 
 **6.MPOS共识机制：**
 节点生成，激发拜占庭容错哈希算力，产生共识体进行链上数据交互，撞击AUC矿池产生阵列节点多维算法，按照算法确定网体获配节点数量，根据节点守恒均线值得出单点节点确权向量，激发网体AUC矿币的产出。
-
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/%E6%96%87%E7%AB%A0%E6%8F%92%E5%9B%BE/0227-02.png)
 
 **7.Bayes贝叶斯：**
 贝叶斯Bayes生态是Osasion公链生态应用层，是串联精密的共识网体，其初始阶段分为两个阶段。一阶段：Sponge Network海绵体（蛛网）构造，完成的主要指标：兰伯斯 Lambus进展达成，技术主导转换为社区治理主导，网体自生长DNA成型，步入自由衍化发展阶段。二阶段：Lamarck Casting（拉马克铸造），完成指标：蛛网节点完结封网，去中心化金融的加持下，落地运用生态起步，社区高度自治形成优胜劣汰。
