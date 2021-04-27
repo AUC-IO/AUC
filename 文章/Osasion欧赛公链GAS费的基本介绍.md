@@ -1,7 +1,5 @@
 # ****Osasion欧赛公链GAS费的基本介绍****
 
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/%E6%96%87%E7%AB%A0%E6%8F%92%E5%9B%BE/%E5%B0%81%E9%9D%A2%E5%9B%BE.png)
-
 来源：汇编自Osasion欧赛项目medium文章
 
 根据Osasion欧赛白皮书，链上GAS费分别为超级账本40%、区块同步账本30%和共识保障池30%，其中，节点可以直接在钱包端查看的也是最受用户关注的就是共识保障池。与超级账本和区块同步账本不同，属于共识保障池的30%GAS在公链设计之初就被纳入链上，在钱包端MPOS端可以查看。
