@@ -1,5 +1,4 @@
 # **********探究Osasion欧赛关于DeFi的新玩法**********
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/%E6%96%87%E7%AB%A0%E6%8F%92%E5%9B%BE/0222-%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg)
 
 了解持续火热的流动性挖矿机制，首先就需要了解何为DeFi？何为DeFi流动性挖矿？DeFi，英文为Decentralized Finance，即去中心化金融，主要指建立在区块链行业的金融应用生态系统。
 
