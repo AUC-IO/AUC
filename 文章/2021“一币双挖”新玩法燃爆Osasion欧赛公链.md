@@ -1,6 +1,4 @@
-# ********2021“一币双挖”新玩法燃爆Osasion欧赛公链********
-
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/%E6%96%87%E7%AB%A0%E6%8F%92%E5%9B%BE/0201%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg)
+# ********2021“一币双挖”新玩法燃爆Osasion欧赛公链*******
 
 
 说到Osasion欧赛公链的一币双挖，就不得不提去年火得不行的DeFi与流动性挖矿，基于这个方向上的创新，知其然，知其所以然，不知DeFi的优缺，怎知Osasion欧赛内有乾坤。
