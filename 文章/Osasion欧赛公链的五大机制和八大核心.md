@@ -1,7 +1,5 @@
 # **Osasion欧赛公链的五大机制和八大核心**
 
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/%E6%96%87%E7%AB%A0%E6%8F%92%E5%9B%BE/0227%E6%9C%BA%E5%88%B6%E5%92%8C%E6%A0%B8%E5%BF%83.jpg)
-
 根据Osasion公链Troy主网数据，当前主网激活节点14550个，共识标的为1.80$，涨幅高达1800%，起步倍增数为18倍。若在主网上线之初就持有静态收益，截止到目前为止，不仅能最低持有上百枚AUC，其中一个休眠节点的staking收益也已超过250UORA。在加密市场行情震荡期，AUC能带给你的，是每天持续不断的流动性挖矿staking收益和主网链上原生资产AUC价值币。而这些持续获得收益的关键点，就是基于Osasion欧赛公链内涵的五大机制和八大核心。
 
 **Osasion欧赛公链五大机制**
