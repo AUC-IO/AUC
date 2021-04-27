@@ -1,7 +1,5 @@
 # **币圈老鸟眼中的Osasion欧赛**
 
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/%E6%96%87%E7%AB%A0%E6%8F%92%E5%9B%BE/0224-%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg)
-
 以下是与币圈老铁青城往事关于Osasion欧赛项目发展现象的一次访谈，站在旁观者的身份通过投资者老鸟的视角来看待Osasion项目的一些问题，整理如下，以方便更多共识者进入Osasion社区学习探讨。
 
 就我的认知而言，不知道正确与否，但就我所学习掌握的东西来讲，我认为Osasion欧赛项目是能站住脚的，但也是存在一定问题的，以下是我的观点，供大家学习讨论。
