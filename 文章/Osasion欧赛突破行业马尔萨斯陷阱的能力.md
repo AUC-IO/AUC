@@ -1,7 +1,5 @@
 # ******Osasion欧赛突破行业马尔萨斯陷阱的能力******
 
-![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%9B%BE%E7%89%87/0127%E5%B0%81%E9%9D%A2%E5%9B%BE.jpg)
-
 ## 先来回答一个问题：Osasion欧赛是什么？它要做什么？
 
 
