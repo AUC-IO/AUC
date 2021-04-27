@@ -1,4 +1,4 @@
-＃****** Osasion *** *欧赛价值远不止跨越牛熊** 
+# ******Osasion****欧赛公链价值远不止跨越牛熊**
 
 
 ![enter link description here](https://github.com/AUC-IO/AUC--publicity/blob/main/%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87/0423%E7%BB%8F%E6%B5%8E%E6%A8%A1%E5%9E%8B.jpg)
